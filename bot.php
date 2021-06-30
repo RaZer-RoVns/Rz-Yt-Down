@@ -36,7 +36,6 @@ system('mkdir ~/bin');
 echo "Creating Termux-URL-Opener FILE.\n";
 system('mv termux-url-opener ~/bin/');
 system('clear');
-system('termux-open https://youtube.com/channel/UCWA94SyBkKEUMyiHxgoaQZQ');
 
 echo "\n";
 echo "\033[1;32mProcess Complete!\n";
